@@ -280,7 +280,7 @@ padding-bottom: 120px;
 .section_three_swg {
     width: 40px;
     height: 40px;
-
+    box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
 }
 
 .section_three_pos {
@@ -309,8 +309,7 @@ padding-bottom: 120px;
 .section_three_color_ {
     display: flex;
     gap: 24px;
-    box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08),0px 1px 1px rgba(46, 47, 66, 0.16),0px 2px 1px rgba(46, 47, 66, 0.08);
-    }
+}
 
 .section_three_color {
     width: calc((100% - 72px) / 4);
