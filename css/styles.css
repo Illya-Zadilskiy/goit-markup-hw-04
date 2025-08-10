@@ -453,6 +453,22 @@ padding-bottom: 120px;
     padding-bottom: 100px;
 }
 
+.footer_text_text {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+    margin-bottom: 16px;
+    
+}
+
+.footer_titl {
+    display: flex;
+    align-items: baseline;
+    margin-right: 120px;
+}
+
 .footer a, p {
     
     }
