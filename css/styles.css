@@ -386,21 +386,14 @@ padding-bottom: 120px;
     display: block;
     row-gap: 48px;
     }
-/*
-width: 360px;
-height: 420px;
-display: block;
-
-*/
+    
 
 .section_four_titl_lii {
     width: calc((100% - 48px) / 3);
     transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
 } 
+.section_four_titl_lii
 
-.section_four_titl_lii:hover .section_four_titl_logo_text {
-    transform: translateY(0%);
-}
 
 .section_four_titl_lii:last-child {
     margin-right: 0;
