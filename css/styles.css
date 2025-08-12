@@ -375,7 +375,7 @@ padding-bottom: 120px;
 
 }
 
-.section_four_titl_lii:hover {
+.section_four_titl_lii:hover .section_four_titl_text{
     transform: translateY(0%);
 }
 
