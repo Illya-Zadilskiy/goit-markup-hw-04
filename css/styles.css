@@ -546,7 +546,11 @@ padding-bottom: 120px;
     transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.section_footer_pos:hover .section_footer_pos:focus {
+.section_footer_pos:hover {
+    background-color: #31d0aa;
+}
+
+.section_footer_pos:focus {
     background-color: #31d0aa;
 }
 
