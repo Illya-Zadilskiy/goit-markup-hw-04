@@ -185,6 +185,7 @@ display: flex;
     text-align: center;
     color: #fff;
     max-width: 496px;
+    background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/img-name.jpg);
 }
 
 .button {
