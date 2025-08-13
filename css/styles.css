@@ -111,6 +111,10 @@ display: flex;
 .word_list {
     position: relative;
     transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+    
+}
+
+.word_list a {
     color: #404bbf;
 }
 
@@ -125,7 +129,9 @@ display: flex;
     align-items: center;
 }
 
-.word_list:hover,
+.word_list:hover {
+    color: #404bbf;
+}
 .word_list:focus {
     color: #404bbf;
 }
