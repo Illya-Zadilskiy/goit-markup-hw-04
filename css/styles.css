@@ -125,7 +125,6 @@ display: flex;
     line-height: 1.5;
     letter-spacing: 0.02em;
     align-items: center;
-    color: #2e2f42;
 }
 
 .word_list:hover {
